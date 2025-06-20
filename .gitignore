@@ -1,0 +1,47 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# Jupyter Notebooks
+*.ipynb
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# VSCode settings
+.vscode/
+
+# Test & temp
+*.bak
+*.tmp
+*.swp
+*.old
+
+# Exported files
+*.pdf
+*.csv
+*.xlsx
+ 
+
+#python files
+multiagent.py
+AI_Agent.py

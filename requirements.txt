@@ -1,0 +1,10 @@
+# Requirements for the project
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-groq
+python-dotenv
+yfinance
+curl_cffi
+groq
